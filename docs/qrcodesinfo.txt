@@ -1,0 +1,6 @@
+qrcode_b00_s00.png
+template:
+http://webpages.charter.net/meprogrammerguy/#Apple%20series
+http://webpages.charter.net/meprogrammerguy/#Atari%20ST
+http://webpages.charter.net/meprogrammerguy/#Amiga
+http://webpages.charter.net/meprogrammerguy/#Amiga%20AGA
