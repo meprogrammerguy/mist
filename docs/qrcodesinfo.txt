@@ -6,3 +6,7 @@ http://webpages.charter.net/meprogrammerguy/#Amiga
 http://webpages.charter.net/meprogrammerguy/#Amiga%20AGA
 http://webpages.charter.net/meprogrammerguy/#Amstrad
 http://webpages.charter.net/meprogrammerguy/#Apple%20II+
+http://webpages.charter.net/meprogrammerguy/#Commodore%2064
+==
+zint -b 58 -d "http://webpages.charter.net/meprogrammerguy/#Commodore%2064"
+qtqr
